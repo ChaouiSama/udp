@@ -31,4 +31,4 @@
 *.out
 *.app
 
-libraries/SFML
+libraries/SFML/*
